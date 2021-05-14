@@ -6,7 +6,10 @@
 [![Linkedin: gdeepak884](https://img.shields.io/badge/-gdeepak884-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gdeepak884/)](https://www.linkedin.com/in/gdeepak884/)
 [![GitHub gdeepak884](https://img.shields.io/github/followers/gdeepak884?label=follow&style=social)](https://github.com/gdeepak884)
 
-
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=CleoMenezes&theme=react&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleoMenezes&theme=react" />
+</div>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
