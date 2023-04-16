@@ -10,7 +10,7 @@
 
 ```javascript
 const deepak = {
-  pronouns: "he" | "his",
+  pronouns: "he" | "him",
   code: [Python, Javascript, Typescript, HTML, CSS, PHP, Ruby, Go, Java],
   architecture: ["microservices", "machine-learning", "design system pattern"],
   field_of_interests: {
